@@ -38,7 +38,7 @@ o Children and youth (age 6-18)
 
 Three subsystems are:
 • *A: an operational subsystem that will be represented by a simulator that sends messages to the broker with data
-Sales.* THIS IS THIS SYSTEM.
+Sales.
 • B: Dashboards subsystem and real-time data.
 o The subsystem will store in a Redis type database the status of each flavor
 Ice cream in each of the branches.
