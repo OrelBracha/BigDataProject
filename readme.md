@@ -39,12 +39,14 @@ o Children and youth (age 6-18)
 Three subsystems are:
 • *A: an operational subsystem that will be represented by a simulator that sends messages to the broker with data
 Sales.
+
 • B: Dashboards subsystem and real-time data.
 o The subsystem will store in a Redis type database the status of each flavor
 Ice cream in each of the branches.
 o One of the screens will be used to request learning a model from subsystem C) that will prepare a set
 data and transfer to BigML,) as well as it will be possible to predict consumption on the same screen
 Ice cream at a certain branch, on a certain date for a certain ice cream flavor.
+
 • C: historical data storage subsystem and background data responsible for the ELT process
 :(Extract, Load, Transform)
 o The subsystem will save details about the settlements in a MySQL database
