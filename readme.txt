@@ -28,7 +28,7 @@ o Little (up to 20 kilos)
 o Medium (up to 60 kilos)
 o tall (up to 120 kilos)
 o Very tall (over 120 kilos)
-• Settlement size): eight values ​​with an ordinal scale
+• Settlement size): eight values with an ordinal scale
 • Type of population (Jews, Arabs, mixed).
 • Age groups in the settlement (
 (0-5 years old) o
